@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>albumName</key>
+	<string>Flower &amp; Answer - EP</string>
+	<key>artistName</key>
+	<string>KAF</string>
+	<key>coverURL</key>
+	<string>/now-playing.widget/lib/cover474.jpg</string>
+	<key>currentPosition</key>
+	<string>98</string>
+	<key>isLoved</key>
+	<string>false</string>
+	<key>oldFilename</key>
+	<string>/Users/helloyeew/Library/Application Support/Übersicht/widgets/now-playing.widget/lib/cover474.jpg</string>
+	<key>songChanged</key>
+	<string>false</string>
+	<key>songDuration</key>
+	<string>231</string>
+	<key>songName</key>
+	<string>Answer</string>
+	<key>songYear</key>
+	<string>2020</string>
+</dict>
+</plist>

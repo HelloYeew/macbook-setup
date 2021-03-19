@@ -1,0 +1,37 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "codestats.apikey": "SFMyNTY.U0dWc2JHOVpaV1YzIyNNVEV6TVRNPQ.OP-mgY1LeTxjVHngQw5QR0dwuiT9w3ZEkL9pcSQRPeg",
+    "codestats.username": "HelloYeew",
+    "git.autorefresh": false,
+    "git.autofetch": true,
+    "css.validate": false, // Disable css built-in lint
+    "stylelint.enable": true, // Enable sytlelint
+    "workbench.colorTheme": "One Dark Pro",
+    "[css]": {
+
+        "editor.suggest.insertMode": "replace"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "liveServer.settings.donotVerifyTags": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.vscode": true
+    },
+    "python.languageServer": "Pylance",
+    "editor.fontFamily": "JetBrains Mono",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "kite.showWelcomeNotificationOnStartup": false,
+    "discord.workspaceElapsedTime": true,
+    "discord.detailsEditing": "Editing {filename} ({currentline} of {totallines})",
+    "discord.enabled": false,
+    "workbench.iconTheme": "material-icon-theme"
+}
