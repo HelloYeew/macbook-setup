@@ -6,7 +6,7 @@ All my IDE and customization on my MacBook are all here.
 
 - [Übersicht](/Übersicht%20Widgets) : This program is stay at my bottom of a screen. My own configuration is [here](/Übersicht%20Widgets). You can download this program [from this link](https://tracesof.net/uebersicht/) and copy this folder to program's Widgets folder. My configuration are like this.
 
-![Übersicht Display](readme-images/ubersicht.png)
+![Übersicht Display](readme-images/ubersicht-edit.png)
 
 - [Yabai](/yabai) : This is a tilling window management program. You can install it [from this repo](https://github.com/koekeishiya/yabai) and put my configuration in ```$HOME/.config/yabai/yabairc```. I custom its setting for best compatibility with my Übersicht setting. A showcase of this confuration is [a picture above](readme-images/ubersicht.png).
 
