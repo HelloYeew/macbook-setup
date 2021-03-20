@@ -8,7 +8,7 @@ All my IDE and customization on my MacBook are all here.
 
 ![Übersicht Display](readme-images/ubersicht.png)
 
-- [Yabai](/yabai) : This is a tilling window management program. You can install it [from this repo](https://github.com/koekeishiya/yabai) and put my configuration in ```$HOME/.config/yabai/yabairc``` then run ```yabai -m config bottom_padding 82``` to make it compatible with Übersicht. I custom its setting for bnest compatibility with Übersicht. A showcase of this confuration is [a picture above](readme-images/ubersicht.png).
+- [Yabai](/yabai) : This is a tilling window management program. You can install it [from this repo](https://github.com/koekeishiya/yabai) and put my configuration in ```$HOME/.config/yabai/yabairc```. I custom its setting for best compatibility with my Übersicht setting. A showcase of this confuration is [a picture above](readme-images/ubersicht.png).
 
 ## IDE List
 
