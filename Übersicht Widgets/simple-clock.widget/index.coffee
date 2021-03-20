@@ -71,7 +71,7 @@ style: (->
     // top: #{top}
     // bottom: 
     bottom: 6px
-    left: 830px
+    left: 835px
     transform: #{transform}
     width: 300px
 

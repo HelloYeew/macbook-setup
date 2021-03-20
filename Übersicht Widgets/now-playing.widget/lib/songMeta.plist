@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>albumName</key>
-	<string>Flower &amp; Answer - EP</string>
+	<string>TVアニメ「ダーリン・イン・ザ・フランキス」エンディング集 Vol.1</string>
 	<key>artistName</key>
-	<string>KAF</string>
+	<string>XX:me</string>
 	<key>coverURL</key>
-	<string>/now-playing.widget/lib/cover474.jpg</string>
+	<string>/now-playing.widget/lib/cover514.jpg</string>
 	<key>currentPosition</key>
-	<string>98</string>
+	<string>0</string>
 	<key>isLoved</key>
 	<string>false</string>
 	<key>oldFilename</key>
-	<string>/Users/helloyeew/Library/Application Support/Übersicht/widgets/now-playing.widget/lib/cover474.jpg</string>
+	<string>/Users/helloyeew/Library/Application Support/Übersicht/widgets/now-playing.widget/lib/cover514.jpg</string>
 	<key>songChanged</key>
-	<string>false</string>
+	<string>true</string>
 	<key>songDuration</key>
-	<string>231</string>
+	<string>225</string>
 	<key>songName</key>
-	<string>Answer</string>
+	<string>真夏のセツナ</string>
 	<key>songYear</key>
-	<string>2020</string>
+	<string>2018</string>
 </dict>
 </plist>
