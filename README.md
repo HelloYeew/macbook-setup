@@ -24,6 +24,16 @@ All my IDE and customization on my MacBook are all here.
 
   ![iStat Menus configuration](readme-images/istat.png)
 
+- [Google Chrome and Microsoft Edge]([Sakura%20Memories]%20Kasumi%20Toyama.crx) : I use a theme that I make it myself. It's '[Sakura Memories] Kasumi Toyama' theme. You can clone and use it if you love Kasumi(?).
+
+  **New Tab Page:**
+
+  ![Kasumi Theme New Tab](readme-images/chrome-kasumi-newtab.png)
+
+  **During Normal Using:**
+
+  ![Kasumi Theme GitHub](readme-images/chrome-kasumi-github.png)
+
 ## IDE List
 
 - [Visual Studio Code](/VSCode) : 
