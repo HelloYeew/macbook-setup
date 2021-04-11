@@ -38,11 +38,15 @@ All my IDE and customization on my MacBook are all here.
 
 - [Visual Studio Code](/VSCode) : 
 
-  - ```settings.json``` : You can run ```sudo $HOME/Library/ApplicationSupport/Code/User/settings.json``` to open this file from your terminal.
+  - ```settings.json``` : You can run ```sudo $HOME/Library/ApplicationSupport/Code/User/settings.json``` to open and edit this file from your terminal.
   - ```extensions.txt``` : Use this command in terminal ```cat extensions.txt | xargs -n 1 code --install-extension``` to install all of my extension to your Visual Code.
 
 - [JetBrains IDE](/jetbrains) :
   
-  - [PyCharm Professional](jetbrains/pycharm_settings.zip) : You can import this file by [this method](readme-images/pycharm-import-setting.png). And if you want to import your PyCharm setting as a file you can use [this method](https://www.jetbrains.com/help/pycharm/sharing-your-ide-settings.html#import-export-settings). My PyCharm setting is like in picture below. Ps. This function is only support in professional version. Community version is not support.
+  - [PyCharm Professional](jetbrains/pycharm_settings.zip) : You can import this config file by [this method](readme-images/pycharm-import-setting.png). And if you want to export your PyCharm setting as a file you can use [this method](https://www.jetbrains.com/help/pycharm/sharing-your-ide-settings.html#import-export-settings). My PyCharm setting is like in picture below. Ps. This import and export setting function is only support in professional version. Community version is not support.
 
     ![PyCharm](readme-images/pycharm.png)
+  
+  - [WebStorm](jetbrains/webstorm_settings.zip) : You can import this config file by [the same method as PyCharm](readme-images/pycharm-import-setting.png). And if you want to export your WebStorm setting as a file you can use [this method](https://www.jetbrains.com/help/webstorm/sharing-your-ide-settings.html#import-export-settings). (In IDE it already have plugin call *IDE Setting Sync* to always backup your setting to JetBrains account so use this export setting as file option if you want to share setting with your friend) My WebStorm setting is like in picture below. Ps. If an import button not appear you can read the full instruction [here](https://www.jetbrains.com/help/webstorm/sharing-your-ide-settings.html#import-export-settings)
+
+    ![WebStorms](readme-images/webstorm.png)
