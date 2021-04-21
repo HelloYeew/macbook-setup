@@ -53,6 +53,6 @@ All my IDE and customization on my MacBook are all here.
 
 ## Game Setting
 
-I put in this repositories because when I move MacBook or forget I can get my game setting from this repo (You can copy it if you want, this is recommend setting)
+I put in this repositories because when I move MacBook or forget I can get my game setting from this repo (You can copy it if you want, this is my recommend setting)
 
 - [osu!](osu)
