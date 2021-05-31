@@ -53,6 +53,8 @@ All my IDE and customization on my MacBook are all here.
 
     ![WebStorms](readme-images/webstorm.png)
 
+  - Rider *(Currently Exporting)* : My customization is inspired by [peppy](https://github.com/peppy)'s Rider (Entirely I think LOL)
+
 ## Game Setting
 
 I put in this repositories because when I move MacBook or forget I can get my game setting from this repo (You can copy it if you want, this is my recommend setting)
