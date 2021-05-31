@@ -24,6 +24,8 @@ All my IDE and customization on my MacBook are all here.
 
   ![iStat Menus configuration](readme-images/istat.png)
 
+- [CleanShot X](https://cleanshot.com/) : This program make screen capture and screen record easier.
+
 - [Google Chrome and Microsoft Edge]([Sakura%20Memories]%20Kasumi%20Toyama.crx) : I use a theme that I make it myself. It's '[Sakura Memories] Kasumi Toyama' theme. You can clone and use it if you love Kasumi(?).
 
   **New Tab Page:**
