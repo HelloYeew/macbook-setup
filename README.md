@@ -53,7 +53,7 @@ All my IDE and customization on my MacBook are all here.
 
     ![WebStorms](readme-images/webstorm.png)
 
-  - Rider *(Currently Exporting)* : My customization is inspired by [peppy](https://github.com/peppy)'s Rider (Entirely I think LOL)
+  - Rider *(Currently Exporting and adjust something)* : My customization is inspired by [peppy](https://github.com/peppy)'s Rider (Entirely I think LOL)
 
 ## Game Setting
 
