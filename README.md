@@ -53,7 +53,7 @@ All my IDE and customization on my MacBook are all here.
 
     ![WebStorms](readme-images/webstorm.png)
 
-  - Rider *(Currently Exporting and adjust something)* : My customization is inspired by [peppy](https://github.com/peppy)'s Rider (Entirely I think LOL)
+  - Rider : My customization is inspired by [peppy](https://github.com/peppy)'s Rider (Entirely I think LOL). You can import this config file by [the same method as PyCharm](readme-images/pycharm-import-setting.png). And if you want to export your Rider setting as a file you can use [this method](https://www.jetbrains.com/help/rider/Sharing_Your_IDE_Settings.html#import-export-settings). (In IDE it already have plugin call *IDE Setting Sync* to always backup your setting to JetBrains account so use this export setting as file option if you want to share setting with your friend) You can download [peppy's custom colour theme here](https://puu.sh/HdOkV/6f164fe614.jar).
   - CLion : *Update Soon*
 
 ## Game Setting
