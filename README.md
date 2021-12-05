@@ -26,7 +26,13 @@ All my IDE and customization on my MacBook are all here.
 
 - [CleanShot X](https://cleanshot.com/) : This program make screen capture and screen record easier.
 
-- [Google Chrome and Microsoft Edge]([Sakura%20Memories]%20Kasumi%20Toyama.crx) : I use a theme that I make it myself. It's '[Sakura Memories] Kasumi Toyama' theme. You can clone and use it if you love Kasumi(?).
+- [Google Chrome and Microsoft Edge](/chrome%20theme)) : I use a theme that I make it myself.
+
+  [New theme](/chrome%20theme/Evening%20Lonely%20Girl.crx) : Evening lonely girl (Idea from [ReI beatmap in osu!](https://osu.ppy.sh/beatmapsets/785858#osu/1657611))
+
+  *Update Soon*
+
+  [Old Theme](/chrome%20theme/[Sakura%20Memories]%20Kasumi%20Toyama.crx) : [Sakura Memories] Kasumi Toyama
 
   **New Tab Page:**
 
