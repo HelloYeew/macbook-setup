@@ -26,7 +26,7 @@ All my IDE and customization on my MacBook are all here.
 
 - [CleanShot X](https://cleanshot.com/) : This program make screen capture and screen record easier.
 
-- [Google Chrome and Microsoft Edge](/chrome%20theme)) : I use a theme that I make it myself.
+- [Google Chrome and Microsoft Edge](/chrome%20theme) : I use a theme that I make it myself.
 
   [New theme](/chrome%20theme/Evening%20Lonely%20Girl.crx) : Evening lonely girl (Idea from [ReI beatmap in osu!](https://osu.ppy.sh/beatmapsets/785858#osu/1657611))
 
