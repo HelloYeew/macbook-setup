@@ -41,6 +41,7 @@ All my IDE and customization on my MacBook are all here.
   **During Normal Using:**
 
   ![Kasumi Theme GitHub](readme-images/chrome-kasumi-github.png)
+- Google Chrome Starter Page : I use [Custom New Tab URL Extension](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia) and put [mamizu](https://github.com/HelloYeew/mamizu) link that I self-hosted to it.
 
 ## IDE List
 
