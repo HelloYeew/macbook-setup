@@ -8,11 +8,11 @@ All my IDE and customization on my MacBook are all here.
 
   **Desktop Screen :**
 
-  ![Übersicht Desktop](readme-images/ubersicht-desktop2.png)
+<!--   ![Übersicht Desktop](readme-images/ubersicht-desktop2.png) -->
 
   **With Windows opened and manage windows size by Yabai :**
 
-  ![Übersicht Windows](readme-images/ubersicht-windows2.png)
+<!--   ![Übersicht Windows](readme-images/ubersicht-windows2.png) -->
 
 - [Yabai](/yabai) : This is a tilling window management program. You can install it [from this repo](https://github.com/koekeishiya/yabai) and put my configuration in ```$HOME/.config/yabai/yabairc```. I custom its setting for best compatibility with my Übersicht setting. A showcase of this confuration is [a picture above](readme-images/ubersicht.png).
 
