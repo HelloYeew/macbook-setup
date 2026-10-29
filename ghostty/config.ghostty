@@ -1,0 +1,72 @@
+# Ghostty config, migrated from iTerm2 (default profile + "One Dark" colors) on 2026-10-29.
+# Most changes apply with Cmd+Shift+, (reload). Opacity/blur need Ghostty to be quit and reopened.
+
+# Font
+font-family = "MesloLGS NF"
+font-size = 13
+
+# iTerm "One Dark" preset
+background = #21252b
+foreground = #abb2bf
+palette = 0=#21252b
+palette = 1=#e06c75
+palette = 2=#98c379
+palette = 3=#e5c07b
+palette = 4=#61afef
+palette = 5=#c678dd
+palette = 6=#56b6c2
+palette = 7=#abb2bf
+palette = 8=#767676
+palette = 9=#e06c75
+palette = 10=#98c379
+palette = 11=#e5c07b
+palette = 12=#61afef
+palette = 13=#c678dd
+palette = 14=#56b6c2
+palette = 15=#abb2bf
+cursor-color = #abb2bf
+# Text under the block cursor uses the background color so it stays readable.
+cursor-text = #21252b
+selection-background = #323844
+selection-foreground = #abb2bf
+# iTerm "Brighten bold text"
+bold-color = bright
+
+# Transparency & blur
+background-opacity = 0.94
+background-blur = 23
+# On macOS 26+ you can try the native glass look instead:
+# background-blur = macos-glass-regular
+
+# Cursor 
+cursor-style = block
+cursor-style-blink = false
+
+# Window
+# iTerm "Minimal" theme: tab bar merged into a titlebar that matches the background
+macos-titlebar-style = tabs
+window-width = 80
+window-height = 25
+
+# Behavior
+# iTerm opened every new window/tab/split in your home folder.
+# Delete these four lines if you'd rather new tabs/splits open in the current folder.
+working-directory = home
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
+split-inherit-working-directory = false
+
+# iTerm never asked before closing a session
+confirm-close-surface = false
+
+# iTerm copied selected text straight to the clipboard
+copy-on-select = clipboard
+
+# iTerm had unlimited scrollback (needs Ghostty 1.4+; Ghostty's default is 50 MB per tab/split)
+scrollback-limit-bytes = unlimited
+
+# Shell integration
+# no-cursor: keep your block cursor at the prompt (Ghostty would switch it to a bar)
+# ssh-env:   send TERM=xterm-256color over ssh like iTerm did, so servers
+#            without Ghostty's terminfo still work
+shell-integration-features = no-cursor,ssh-env
